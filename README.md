@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 #目前想学的东西：
- -C/C++，python，MATLAB（算法，数据结构和工程级代码）
- -计算机结构原理，命令行
- -PCB，数电模电
- -单片机
- -电路，控制
- -英语
+ - C/C++，python，MATLAB（算法，数据结构和工程级代码）
+ - 计算机结构原理，命令行
+ - PCB，数电模电
+ - 单片机
+ - 电路，控制
+ - 英语
 <!--
 **san-holy/san-holy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
